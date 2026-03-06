@@ -9,7 +9,11 @@ const Home = () => {
 
       <div style={{ padding: "40px", textAlign: "center" }}>
         <h1>Welcome to the Home Page</h1>
-        <p>This is the landing page of the application.</p>
+        <p>This is the landing page of the application.
+            Harshitha is a bad girl , alwayes she is doing bad things. She is a
+            She always doing bad things. She is a bad girl
+            
+        </p>
       </div>
 
       <Footer />
